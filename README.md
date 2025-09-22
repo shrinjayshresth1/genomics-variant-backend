@@ -57,7 +57,7 @@ This service implements a clinical genomics platform that processes raw VCF file
 ### Setup
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shrinjayshresth1/genomics-variant-backend.git
    cd genomics-pipeline
    ```
 
